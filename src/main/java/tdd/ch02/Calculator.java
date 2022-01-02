@@ -1,4 +1,4 @@
-package ch02;
+package tdd.ch02;
 
 public class Calculator {
 

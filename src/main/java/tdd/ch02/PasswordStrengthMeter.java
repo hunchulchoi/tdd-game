@@ -1,4 +1,4 @@
-package ch02;
+package tdd.ch02;
 
 import lombok.extern.slf4j.Slf4j;
 

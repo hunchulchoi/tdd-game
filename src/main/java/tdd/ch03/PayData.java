@@ -1,4 +1,4 @@
-package ch03;
+package tdd.ch03;
 
 import lombok.Builder;
 import lombok.Data;

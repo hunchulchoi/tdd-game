@@ -1,6 +1,7 @@
-package ch02;
+package tdd.ch02;
 
 import org.junit.jupiter.api.Test;
+import tdd.ch02.Calculator;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

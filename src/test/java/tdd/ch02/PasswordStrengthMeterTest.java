@@ -1,7 +1,9 @@
-package ch02;
+package tdd.ch02;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
+import tdd.ch02.PasswordStrength;
+import tdd.ch02.PasswordStrengthMeter;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;
